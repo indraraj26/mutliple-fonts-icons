@@ -24,3 +24,32 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+@font-face {
+    font-family: MontReg;
+    src: url("./assets/fonts/Montserrat-Regular.ttf") format("ttf");
+    font-style: normal;
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: MontMed;
+    src: url("./assets//fonts/Montserrat-Medium.ttf") format("ttf");
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: MontSemiBold;
+    src: url("./assets/fonts/Montserrat-SemiBold.ttf") format("ttf");
+    font-style: normal;
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: MontBold;
+    src: url("./assets/fonts/Montserrat-Bold.ttf") format("ttf");
+    font-style: normal;
+    font-weight: bold;
+  }
